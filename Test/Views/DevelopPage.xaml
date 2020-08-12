@@ -3,6 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Test.Views.DevelopPage">
     <ContentPage.Content>
-        <Label Text="This is Development Branch"/>
+        <StackLayout>
+            <Label Text="This is Development Branch"/>
+            <Label Text="This is Add more Development Branch"/>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
