@@ -10,4 +10,7 @@
   <ItemGroup>
     <Folder Include="Views\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Views\DevelopPage %28copy%29.xaml.cs" />
+  </ItemGroup>
 </Project>
