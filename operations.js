@@ -9,7 +9,7 @@ const subtract = (a, b) => {
 };
 
 // Multiply two numbers
-const mulltiply = (a, b) => {
+const multiply = (a, b) => {
   return a * b;
 };
 
