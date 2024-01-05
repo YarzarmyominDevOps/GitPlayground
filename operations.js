@@ -1,7 +1,6 @@
 // Add two numbers
 const add = (a, b) => {
-  // TODO: Implement here
-  return 0;
+  return a + b;
 };
 
 const subtract = (a, b) => {
