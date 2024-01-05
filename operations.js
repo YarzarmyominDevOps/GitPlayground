@@ -3,6 +3,7 @@ const add = (a, b) => {
   return a + b;
 };
 
+// Subtract two numbers
 const subtract = (a, b) => {
   return a - b;
 };
